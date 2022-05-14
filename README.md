@@ -43,7 +43,7 @@ run 'bundle install'; to install required libraries/gems
 ## Running the program
 
 - open the terminal
-- run program while passing the server logs; by entering: $ruby run_program.rb data/webserver.logs
+- run program while passing the server logs; by entering: $ruby run_program.rb data/webserver.log
 
 ## Testing
 
